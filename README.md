@@ -1,9 +1,9 @@
 Conversor de Moeda
 
-Este projeto tem como objetivo converter moedas de diferentes nacionalidades para um tipo de moeda específica.
+Este projeto tem como objetivo converter moedas de diferentes nacionalidades para um tipo de moeda específica desejada.
 
 O projeto utiliza a base de dados da ExchangeRate-API para retirar as informações a respeito das taxas de conversões 
-das moedas e multiplica o valor desejado por ssas taxas, assim fornecnedo o resultado da conversão.
+das moedas e multiplica o valor desejado por essas taxas, assim fornecnedo o valor da conversão para a moeda desejada.
 
 EX: 
 Após resposder qual é o eu nome o programa iráperguntar qual a moeda que você deseja converter, em seguida a moeda
